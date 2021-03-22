@@ -1,9 +1,6 @@
---
-
+---
 layout: post
-
 title: Lessons in going paperless
-
 ---
 
 Partially [inspired](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) inspired by Stephen Wolfram, a couple of years ago I set off on a mission to get rid of all the paper I own. It's all too easy to paper on paper, but for various reasons, it's pretty dumb.
