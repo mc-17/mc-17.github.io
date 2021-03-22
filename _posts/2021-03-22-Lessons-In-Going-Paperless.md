@@ -1,6 +1,9 @@
 --
+
 layout: post
+
 title: Lessons in going paperless
+
 ---
 
 Partially [inspired](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) inspired by Stephen Wolfram, a couple of years ago I set off on a mission to get rid of all the paper I own. It's all too easy to paper on paper, but for various reasons, it's pretty dumb.
@@ -26,7 +29,7 @@ iOS has a nice, hidden feature in the Notes app which supports scanning document
 
 In general it hasn't crashed for me, and Notes does a good job of bundling together sequential scans into documents. As you can store multiple documents in a single note, there's little UI fiddling between scans.
 
-The only downside to the iOS experience is the page detection - sometimes the most subtle of ridges of creases in a piece of paper are enough to send the paper detection into a frenzy, wherein the scanner decides that you're actually trying to scan some odd trapezoidal pieceof paper. Most of the time the app is smart enough to prompt you for a manual crop, but occasionally it's confident that you're scanning oddly-shaped pages and immediately saves it. That and the lack of windowing on iOS means it can be jarring sometimes switching between the Files and Notes app when checking your scans.
+The only downside to the iOS experience is the page detection - sometimes the most subtle of ridges or creases in a piece of paper are enough to send the paper detection into a frenzy, wherein the scanner decides that you're actually trying to scan some odd trapezoidal pieceof paper. Most of the time the app is smart enough to prompt you for a manual crop, but occasionally it's confident that you're scanning oddly-shaped pages and immediately saves it. That and the lack of windowing on iOS means it can be jarring sometimes switching between the Files and Notes app when checking your scans.
 
 
 ## TL;DR
